@@ -1,0 +1,12 @@
+com\fa\entity\AngularCrudEntity.class
+com\fa\dto\AngularCrudDto.class
+com\fa\repository\LoginRepository.class
+com\fa\dto\LoginDto.class
+com\fa\controller\AngularCrudController.class
+com\fa\repository\AngularCrudRepository.class
+com\fa\service\AngularCrudService.class
+com\fa\service\impl\AngularCrudServiceImpl$1.class
+com\fa\entity\LoginEntity.class
+com\fa\service\impl\AngularCrudServiceImpl.class
+com\fa\AngularCrudApplication.class
+com\fa\dto\CommonDto.class
